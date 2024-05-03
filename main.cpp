@@ -2,7 +2,7 @@
 //Gian Carlo Marotta
 //Bruno Dosal
 
-
+#include <iostream>
 #include "ShoppingCart.h"
 
 using namespace std;
